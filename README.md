@@ -1,7 +1,7 @@
 # CalcContabil
 contabilidade
 
-a base da logica contabilidade , 
+a base da logica contabilidade e plataforma dobradura contabil , 
 
 um sistema de contabilidade de ativos e passivos de créditos de sistema automático bancario.
 desenhando o fluxograma . 
